@@ -23,7 +23,7 @@ shipSelection_UI <- function(id, shipsData) {
   
   tagList(
     header(
-      title = "Select a ship type:",
+      title = "Shiny Dashboard of Vessels Activity",
       description = ""
     ),
     dropdown_input(
