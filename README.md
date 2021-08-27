@@ -1,2 +1,2 @@
 # vessels
-A demo dashboard using marine data for Appsilon
+A shiny dashboard using marine data for Appsilon. See: https://indoamerica.shinyapps.io/vessels/
