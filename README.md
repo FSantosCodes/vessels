@@ -1,2 +1,2 @@
 # vessels
-A demo dashboard of marine data for Appsilon
+A demo dashboard using marine data for Appsilon
